@@ -1,0 +1,16 @@
+{
+    "id": "92eb9f3c-1c3d-4b3b-b2bc-405b1a3eae79",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "92eb9f3c-1c3d-4b3b-b2bc-405b1a3eae79",
+    "children": [
+        "10d11a49-2849-48a1-85f0-b14010b5a4ae",
+        "d53ea7c5-6777-4b1a-b143-de740a8ae3d9",
+        "1f670565-43b5-474c-923b-88e4c13ba136",
+        "243dd70c-7261-43ea-b307-23e226e6fad2"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Backgrounds",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
