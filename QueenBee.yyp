@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1dfd0495-012d-4ed6-a6c5-7707aae49445",
+            "Value": {
+                "id": "48591554-1375-4d78-b7d2-bb5d177cfe8e",
+                "resourcePath": "sprites\\spr_farLightning\\spr_farLightning.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1f670565-43b5-474c-923b-88e4c13ba136",
             "Value": {
                 "id": "7b860d3b-c736-46b1-be06-97e3e0dd55cb",
@@ -68,6 +76,22 @@
                 "id": "71d2e1e2-9e77-4147-8cad-ca53cf856fd8",
                 "resourcePath": "sprites\\spr_rainDrops\\spr_rainDrops.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "24b99e38-1a96-4f33-ad3c-3d4512587c25",
+            "Value": {
+                "id": "344d8b3f-3f6d-421b-b656-c89662ad1fd2",
+                "resourcePath": "views\\24b99e38-1a96-4f33-ad3c-3d4512587c25.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2ccf4680-008e-47d6-a8b4-36f05a037613",
+            "Value": {
+                "id": "f15b1305-2992-469d-a3ff-4e0bf34029ad",
+                "resourcePath": "views\\2ccf4680-008e-47d6-a8b4-36f05a037613.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -175,6 +199,14 @@
             }
         },
         {
+            "Key": "920e86a8-4ca5-46d4-a097-5c824f7d61cc",
+            "Value": {
+                "id": "8ced4aba-a2c2-4cb2-94ba-505f86cdf43c",
+                "resourcePath": "objects\\obj_farLightning\\obj_farLightning.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "92eb9f3c-1c3d-4b3b-b2bc-405b1a3eae79",
             "Value": {
                 "id": "2ea4d67f-698d-42f2-8350-c74ee9eedaa8",
@@ -258,7 +290,15 @@
             "Key": "deb1d501-219b-4c27-8837-d3ad54a07ecd",
             "Value": {
                 "id": "c9774c12-57d3-4932-8d99-ffaa9f4ad29c",
-                "resourcePath": "objects\\obj_gameController\\obj_gameController.yy",
+                "resourcePath": "objects\\obj_game_controller\\obj_game_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ea80050d-8287-4d9b-b37b-3358eaa3edb8",
+            "Value": {
+                "id": "cb184f53-2302-46a6-b91b-34fa73223c8e",
+                "resourcePath": "objects\\obj_farLightning_controller\\obj_farLightning_controller.yy",
                 "resourceType": "GMObject"
             }
         },
