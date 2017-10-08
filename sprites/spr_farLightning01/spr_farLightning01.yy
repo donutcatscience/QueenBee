@@ -2,7 +2,7 @@
     "id": "1dfd0495-012d-4ed6-a6c5-7707aae49445",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_farLightning",
+    "name": "spr_farLightning01",
     "For3D": false,
     "HTile": false,
     "VTile": false,

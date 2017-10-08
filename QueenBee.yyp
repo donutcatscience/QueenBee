@@ -58,7 +58,7 @@
             "Key": "1dfd0495-012d-4ed6-a6c5-7707aae49445",
             "Value": {
                 "id": "48591554-1375-4d78-b7d2-bb5d177cfe8e",
-                "resourcePath": "sprites\\spr_farLightning\\spr_farLightning.yy",
+                "resourcePath": "sprites\\spr_farLightning01\\spr_farLightning01.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -92,6 +92,14 @@
                 "id": "f15b1305-2992-469d-a3ff-4e0bf34029ad",
                 "resourcePath": "views\\2ccf4680-008e-47d6-a8b4-36f05a037613.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2f041c70-8cc7-4352-87ae-327b5eb20f99",
+            "Value": {
+                "id": "905b8e06-34c0-4be2-8d2a-a6f33e2661b4",
+                "resourcePath": "sprites\\spr_farLightning02\\spr_farLightning02.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -172,6 +180,14 @@
                 "id": "d87210e2-0e8a-4f2f-a2c6-49667c65e1cd",
                 "resourcePath": "views\\62364db2-3a6d-40fa-a526-c26fc3382332.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "72b9220d-5bca-452a-9e56-a1af2019b503",
+            "Value": {
+                "id": "8241547f-4734-49d4-9938-011cbaeee97e",
+                "resourcePath": "objects\\obj_camera\\obj_camera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
