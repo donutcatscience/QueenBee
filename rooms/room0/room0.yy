@@ -11,7 +11,8 @@
         "8de7a86a-2b7b-4a24-969c-7565ad0b6057",
         "6ddd03f3-4a16-46ae-ad7a-38ae47d0a1fc",
         "04694c6b-5276-4746-85af-8f3416d5230f",
-        "ded15d57-84ec-4748-8abf-671ee2646184"
+        "ded15d57-84ec-4748-8abf-671ee2646184",
+        "64a8a00c-5b11-4962-b492-eab96fd0c324"
     ],
     "IsDnD": false,
     "layers": [
@@ -213,13 +214,39 @@
             "y": 0
         },
         {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "LightningMid",
+            "id": "ddfba64b-a260-4e50-be8c-48cc55be3a21",
+            "depth": 500,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+                {"name": "inst_1C22B1C5","id": "64a8a00c-5b11-4962-b492-eab96fd0c324","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1C22B1C5","objId": "2984ba95-82f7-4e89-9da4-104e169f7270","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 128,"y": -32}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Mid",
             "id": "73a395e7-4381-4076-af83-705a3c72343b",
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 500,
+            "depth": 600,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -251,7 +278,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Lightning",
             "id": "efe1d758-2372-40e4-b12e-291b70a7f9d0",
-            "depth": 600,
+            "depth": 700,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -280,7 +307,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 700,
+            "depth": 800,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

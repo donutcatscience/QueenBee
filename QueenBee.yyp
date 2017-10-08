@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2984ba95-82f7-4e89-9da4-104e169f7270",
+            "Value": {
+                "id": "6a9c4c3a-825a-49f0-8384-d77368b9bb4a",
+                "resourcePath": "objects\\obj_lightEffectMid\\obj_lightEffectMid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ccf4680-008e-47d6-a8b4-36f05a037613",
             "Value": {
                 "id": "f15b1305-2992-469d-a3ff-4e0bf34029ad",
@@ -114,7 +122,7 @@
             "Key": "30ad7cc2-6601-45e5-a813-8f9b230ebf3e",
             "Value": {
                 "id": "ddf1dfab-b2e5-4049-8444-1b2d982229d7",
-                "resourcePath": "objects\\obj_nightCycle\\obj_nightCycle.yy",
+                "resourcePath": "objects\\obj_lightEffect\\obj_lightEffect.yy",
                 "resourceType": "GMObject"
             }
         },

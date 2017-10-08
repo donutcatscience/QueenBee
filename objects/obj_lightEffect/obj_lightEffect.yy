@@ -2,7 +2,7 @@
     "id": "30ad7cc2-6601-45e5-a813-8f9b230ebf3e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_nightCycle",
+    "name": "obj_lightEffect",
     "eventList": [
         {
             "id": "db58ec32-9458-4671-8340-204bbba89c2f",
