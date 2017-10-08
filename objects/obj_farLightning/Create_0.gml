@@ -7,7 +7,7 @@ image_speed = 0;
 sprite_index = choose(spr_farLightning01,spr_farLightning02);
 
 //change the scale of lightning
-var lightScale = random_range(.05,1);
+lightScale = random_range(.1,1);
 image_xscale = lightScale;
 image_yscale = lightScale;
 
