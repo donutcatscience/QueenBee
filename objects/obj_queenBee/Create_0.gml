@@ -1,8 +1,8 @@
 /// @description Create Queen
 
 //initialize variables
-queenNormalSpeed = 5;
-queenBoostSpeed = 8;
+queenNormalSpeed = 3;
+queenBoostSpeed = 5;
 queenSpeed = 0;
 
 diagonalPenalty = 1.2;
