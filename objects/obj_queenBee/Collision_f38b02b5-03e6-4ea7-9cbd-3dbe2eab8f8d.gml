@@ -1,6 +1,4 @@
-/// @description 
+/// @description win condition
 
-
-obj_game_controller.taunt = true;
-obj_game_controller.win = true;
+audio_play_sound(sfx_wellDone,50,false);
 instance_destroy();

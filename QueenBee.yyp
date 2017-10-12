@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "273f6f9b-9b37-4076-a0b9-4abf590ea0c1",
+            "Value": {
+                "id": "4f147e30-b3ae-44fe-b554-a3e269ec45c2",
+                "resourcePath": "objects\\obj_gameOverText\\obj_gameOverText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2984ba95-82f7-4e89-9da4-104e169f7270",
             "Value": {
                 "id": "6a9c4c3a-825a-49f0-8384-d77368b9bb4a",
@@ -196,6 +204,14 @@
                 "id": "ddf1dfab-b2e5-4049-8444-1b2d982229d7",
                 "resourcePath": "objects\\obj_lightEffect\\obj_lightEffect.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "36157f7d-9d36-4b29-95fe-ce0d875442c2",
+            "Value": {
+                "id": "4b8ae599-64f2-407b-b3fa-7d63388e0424",
+                "resourcePath": "sounds\\mus_intro\\mus_intro.yy",
+                "resourceType": "GMSound"
             }
         },
         {
