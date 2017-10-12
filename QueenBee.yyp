@@ -31,11 +31,27 @@
     },
     "resources": [
         {
+            "Key": "032d862c-915f-4688-9052-890477b3b9c8",
+            "Value": {
+                "id": "0c30fe5f-8c4e-47ec-a93b-3980f0851ee1",
+                "resourcePath": "objects\\obj_theHorde\\obj_theHorde.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0a8fe42c-cd7f-433a-8258-78d806e8dda5",
             "Value": {
                 "id": "da42feed-e4e4-496a-a5f9-a1e619446245",
                 "resourcePath": "fonts\\fnt_credits\\fnt_credits.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "0ab0c9bb-9a45-4a88-9b3f-6a7331c216f8",
+            "Value": {
+                "id": "935094dd-e652-4fc0-bf36-06d544ce18d2",
+                "resourcePath": "sprites\\spr_theHorde\\spr_theHorde.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
