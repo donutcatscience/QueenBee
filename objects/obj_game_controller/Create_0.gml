@@ -10,3 +10,6 @@ audio_play_sound(mus_rainSiren,45,true);
 
 //randomize seed
 randomize();
+
+//load new game assets
+scr_newGame();
