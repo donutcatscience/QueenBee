@@ -5,7 +5,7 @@ image_xscale = .5;
 image_yscale = .5;
 
 queenNormalSpeed = 3;
-queenBoostSpeed = 5;
+queenBoostSpeed = 3;
 queenSpeed = 0;
 
 diagonalPenalty = 1.2;
