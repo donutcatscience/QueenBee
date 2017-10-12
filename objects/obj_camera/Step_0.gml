@@ -1,3 +1,3 @@
 /// @description camera handeling
 
-x = obj_queenBee.x + 100;
+if (instance_exists(obj_queenBee)) x = obj_queenBee.x + 100;

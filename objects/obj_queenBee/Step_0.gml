@@ -43,8 +43,7 @@ if ((abs(moveX) > 0) && ((abs(moveY) > 0))) {
 
 
 
+
 //moves queen
 x += moveX;
 y += moveY;
-
-

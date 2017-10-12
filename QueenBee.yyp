@@ -58,7 +58,7 @@
             "Key": "1810306a-5162-4742-9089-a075c08f3e31",
             "Value": {
                 "id": "78b75c02-c149-486e-b99e-dfd16abd3987",
-                "resourcePath": "objects\\obj_robotBee\\obj_robotBee.yy",
+                "resourcePath": "objects\\obj_robotBee_station\\obj_robotBee_station.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -116,6 +116,14 @@
                 "id": "905b8e06-34c0-4be2-8d2a-a6f33e2661b4",
                 "resourcePath": "sprites\\spr_farLightning02\\spr_farLightning02.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3055661c-df8a-4abc-ab98-c05a25e1a53a",
+            "Value": {
+                "id": "8656b1a4-defa-479b-874e-0ca279c319b5",
+                "resourcePath": "objects\\obj_robotBee_moving\\obj_robotBee_moving.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "4cab778d-aa27-4a1c-bab5-0dc30f63d0cb",
+            "Value": {
+                "id": "089f32b3-32d0-4ef7-b4af-affcd001527a",
+                "resourcePath": "sprites\\spr_robotBee_fly\\spr_robotBee_fly.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "520be925-c464-4246-ba14-710629fac649",
             "Value": {
                 "id": "fd5eca4f-e518-4a32-9ac2-f15ba7a345bf",
@@ -207,6 +223,14 @@
             }
         },
         {
+            "Key": "555d38a8-1c64-4819-a2f3-c3d1cb378ecf",
+            "Value": {
+                "id": "bbe0f3d0-1e70-45c7-816b-275e01a171e6",
+                "resourcePath": "objects\\obj_enemyBeeSpawner\\obj_enemyBeeSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "62364db2-3a6d-40fa-a526-c26fc3382332",
             "Value": {
                 "id": "d87210e2-0e8a-4f2f-a2c6-49667c65e1cd",
@@ -215,10 +239,18 @@
             }
         },
         {
+            "Key": "62fcea29-179c-4084-9c3f-6041fac09b77",
+            "Value": {
+                "id": "61558709-3fb4-4b51-aad5-93eeea16184d",
+                "resourcePath": "sounds\\sfx_queenBee\\sfx_queenBee.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6eb7f4f3-91a0-46e0-8e0c-b861cb262ee7",
             "Value": {
                 "id": "226242aa-5bdb-40dc-adc2-f0c9f5ddf9b7",
-                "resourcePath": "sprites\\spr_robotBee_fly\\spr_robotBee_fly.yy",
+                "resourcePath": "sprites\\spr_robotBee_station\\spr_robotBee_station.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -340,6 +372,14 @@
                 "id": "fffbbc6f-5603-4ba7-a1f1-1e72eaf675f9",
                 "resourcePath": "views\\d89ea0fd-ff85-4206-aee7-c625f689e29b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d8b66a15-f79d-4597-9b61-5c9f9eb268ee",
+            "Value": {
+                "id": "cbedd45d-d65a-46d8-a03b-ee1a201c56d9",
+                "resourcePath": "sounds\\sfx_enemyBee\\sfx_enemyBee.yy",
+                "resourceType": "GMSound"
             }
         },
         {
