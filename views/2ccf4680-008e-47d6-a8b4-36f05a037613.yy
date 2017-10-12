@@ -4,7 +4,9 @@
     "mvc": "1.1",
     "name": "2ccf4680-008e-47d6-a8b4-36f05a037613",
     "children": [
-        "8c51cb54-539b-4fe1-be74-6cb19c4d4399"
+        "8c51cb54-539b-4fe1-be74-6cb19c4d4399",
+        "e537aa23-2d3a-49cf-9c51-0cf7c7f07487",
+        "bc4422fe-b2be-40c9-bfdd-907422b6284b"
     ],
     "filterType": "GMSprite",
     "folderName": "Player",

@@ -15,3 +15,4 @@ moveY = 0;
 
 //play her sound
 audio_play_sound(sfx_queenBee,1,true);
+audio_play_sound(sfx_begin,1,false);
