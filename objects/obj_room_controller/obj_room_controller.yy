@@ -1,28 +1,18 @@
 {
-    "id": "deb1d501-219b-4c27-8837-d3ad54a07ecd",
+    "id": "681407d3-f1fd-416e-9ce5-7f42f967dedd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_game_controller",
+    "name": "obj_room_controller",
     "eventList": [
         {
-            "id": "55582a64-dbc2-4e79-8532-343d9ab5b56c",
+            "id": "a4df9bf4-c7da-4de2-b478-ac51b9a8a550",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "deb1d501-219b-4c27-8837-d3ad54a07ecd"
-        },
-        {
-            "id": "ff31de7c-2c5c-4f84-8214-efa7f1cc525d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "deb1d501-219b-4c27-8837-d3ad54a07ecd"
+            "m_owner": "681407d3-f1fd-416e-9ce5-7f42f967dedd"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

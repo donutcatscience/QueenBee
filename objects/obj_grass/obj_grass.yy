@@ -1,28 +1,28 @@
 {
-    "id": "deb1d501-219b-4c27-8837-d3ad54a07ecd",
+    "id": "74177baa-f02c-49fa-94fe-dca7bd01b2c1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_game_controller",
+    "name": "obj_grass",
     "eventList": [
         {
-            "id": "55582a64-dbc2-4e79-8532-343d9ab5b56c",
+            "id": "e445006d-b622-4b46-955b-fac6ff09ba16",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "deb1d501-219b-4c27-8837-d3ad54a07ecd"
+            "m_owner": "74177baa-f02c-49fa-94fe-dca7bd01b2c1"
         },
         {
-            "id": "ff31de7c-2c5c-4f84-8214-efa7f1cc525d",
+            "id": "535f7b87-fc82-4ce8-a8f7-353d04189f62",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "deb1d501-219b-4c27-8837-d3ad54a07ecd"
+            "m_owner": "74177baa-f02c-49fa-94fe-dca7bd01b2c1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,6 +41,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "d20b6724-29a4-4728-9bc8-f190458e4159",
     "visible": true
 }
