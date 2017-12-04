@@ -9,8 +9,10 @@ inputDown = max(keyboard_check(ord("S")),keyboard_check(vk_down),0);
 //boost
 inputSpeedBoost = max(keyboard_check(vk_shift),0);
 
-//check mouse click for lightning
-inputAttack = max(mouse_check_button(mb_left),0);
+//check mouse click for bee shooting
+inputShoot = max(mouse_check_button(mb_left),0);
+if (inputShoot) scr_player_shoot();
+
 
 //lightning attack
 
